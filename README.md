@@ -1,5 +1,5 @@
-# oversas
+# Oversas
 
 IPFS public HTTP Gateway &amp; RPC API
 
-[oversas](https://oversas.org)
+Doc: [oversas](https://oversas.org)
