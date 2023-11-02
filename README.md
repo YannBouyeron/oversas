@@ -2,4 +2,4 @@
 
 IPFS public HTTP Gateway &amp; RPC API
 
-Doc: [oversas](https://oversas.org)
+Documentation: [oversas](https://oversas.org)
